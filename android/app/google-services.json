@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792218050098",
+    "project_id": "gallary-type-app",
+    "storage_bucket": "gallary-type-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792218050098:android:8df3bf0ebd2e725971262b",
+        "android_client_info": {
+          "package_name": "com.example.img_viewer_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792218050098-0tcqu4fbo1lqni9gvb5imro43uko8pne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQdXBDo_S1rMGLghPWynbbo0Ngwgf1jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792218050098-0tcqu4fbo1lqni9gvb5imro43uko8pne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
